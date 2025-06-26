@@ -1,68 +1,68 @@
 [
   {
     "name": "UNIT and Dimension 01",
-    "job": "Quality Control Specialist",
-    "color": "Blue",
+    "dpp": "Quality Control Specialist",
+    "solution": "Blue",
     "video": "https://www.youtube.com/embed/Ek_6a0uohNk?autoplay=1"
   },
   {
     "name": "UNIT and Dimension 02",
-    "job": "Desktop Support Technician",
-    "color": "Purple",
+    "dpp": "Desktop Support Technician",
+    "solution": "Purple",
     "video": "https://www.youtube.com/embed/UjW-eEEMG5Y"
   },
   {
     "name": "UNIT and Dimension 03",
-    "job": "Tax Accountant",
-    "color": "Red",
+    "dpp": "Tax Accountant",
+    "solution": "Red",
     "video": "https://www.youtube.com/embed/cBffz9jLzyI"
   },
   {
     "name": "UNIT and Dimension 04",
-    "job": "Tax Accountant",
-    "color": "Red",
+    "dpp": "Tax Accountant",
+    "solution": "Red",
     "video": "https://www.youtube.com/embed/yg8SOCoH5GQ"
   },
   {
     "name": "UNIT and Dimension 05",
-    "job": "Tax Accountant",
-    "color": "Red",
+    "dpp": "Tax Accountant",
+    "solution": "Red",
     "video": "https://www.youtube.com/embed/FMoSTm2KaGs"
   },
   {
     "name": "UNIT and Dimension 06",
-    "job": "Tax Accountant",
-    "color": "Red",
+    "dpp": "Tax Accountant",
+    "solution": "Red",
     "video": "https://www.youtube.com/embed/ZOElvfLQZzI"
   },
   {
-   "name": "UNIT and Dimension 07",
-    "job": "Tax Accountant",
-    "color": "Red",
-    "video": "https://www.youtube.com/embed/_Iu5ls_i4tc" 
+    "name": "UNIT and Dimension 07",
+    "dpp": "Tax Accountant",
+    "solution": "Red",
+    "video": "https://www.youtube.com/embed/_Iu5ls_i4tc"
   },
   {
     "name": "UNIT and Dimension 08",
-    "job": "Tax Accountant",
-    "color": "Red",
+    "dpp": "Tax Accountant",
+    "solution": "Red",
     "video": "https://www.youtube.com/embed/nJdhmwrlRYw"
   },
   {
     "name": "UNIT and Dimension 09",
-    "job": "Tax Accountant",
-    "color": "Red",
+    "dpp": "Tax Accountant",
+    "solution": "Red",
     "video": "https://www.youtube.com/embed/PGePiAj7Z2o"
   },
   {
     "name": "UNIT and Dimension 10",
-    "job": "Tax Accountant",
-    "color": "Red",
+    "dpp": "Tax Accountant",
+    "solution": "Red",
     "video": "https://www.youtube.com/embed/_RETke9ukiI"
   },
   {
     "name": "UNIT and Dimension 11",
-    "job": "Tax Accountant",
-    "color": "Red",
+    "dpp": "Tax Accountant",
+    "solution": "Red",
     "video": "https://www.youtube.com/embed/TpAEM3g1sgg"
   }
 ]
