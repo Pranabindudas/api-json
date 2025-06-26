@@ -1,1 +1,20 @@
-[ { "id": 1, "name": "Units and Measurements 01", "url": "https://www.youtube.com/embed/Ek_6a0uohNk" }, { "id": 2, "name": "Units and Measurements 02 :", "url": "https://www.youtube.com/embed/UjW-eEEMG5Y" }, { "id": 3, "name": "Units and Measurements 03 : Phd on Dimension", "url": "https://www.youtube.com/embed/cBffz9jLzyI" } ]
+[
+  {
+    "name": "UNIT and Dimension",
+    "job": "Quality Control Specialist",
+    "color": "Blue",
+    "video": "https://www.youtube.com/embed/Ek_6a0uohNk?autoplay=1"
+  },
+  {
+    "name": "Hart Hagerty",
+    "job": "Desktop Support Technician",
+    "color": "Purple",
+    "video": "https://www.youtube.com/embed/UjW-eEEMG5Y"
+  },
+  {
+    "name": "Brice Swyre",
+    "job": "Tax Accountant",
+    "color": "Red",
+    "video": "https://www.youtube.com/embed/cBffz9jLzyI"
+  }
+]
